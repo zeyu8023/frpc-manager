@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="https://raw.githubusercontent.com/你的用户名/frpc-manager/main"
+REPO_URL="https://raw.githubusercontent.com/zeyu8023/frpc-manager/main"
 CACHE_DIR="$HOME/.frpc-manager"
 SCRIPT="$CACHE_DIR/frpc-manager.sh"
 CONFIG_FILE="$CACHE_DIR/config.env"
